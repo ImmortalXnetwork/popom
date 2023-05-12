@@ -60,7 +60,7 @@ async def subscribe_channel(c: Client, u: Message):
                 url = chat_info.invite_link
             try:
                 await u.reply_text(
-                    f"Hi {u.from_user.first_name}!\n\nYou must join the redirected channel in order to use this bot, if you've done it, please restart this bot!\n\nUse » /restart",
+                    f"Hi {u.from_user.first_name}!\n\nYou must join the redirected channel in order to use this bot mf, if you've done it, please restart this bot!\n\nUse » /restart",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
