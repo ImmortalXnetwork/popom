@@ -2,7 +2,7 @@ from typing import List
 
 API_ID: int = 14056295
 API_HASH: str = "9ae65901d2eeb5854cc5aa562566d34a"
-TOKEN: str = "insert_your_bot_token_here"
+TOKEN: str = "5945861765:AAHznVZXhkJ-OJaT-cMhoCFmIR0gIWjHylY"
 
 log_chat: int = -1001576075071
 sub_chat: str = "IMMORTAL_NETWORK"
